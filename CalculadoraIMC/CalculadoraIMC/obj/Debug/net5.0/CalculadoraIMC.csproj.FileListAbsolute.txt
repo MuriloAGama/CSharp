@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.exe
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.deps.json
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.runtimeconfig.json
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.dll
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.pdb
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.dll
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\refint\CalculadoraIMC.dll
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.pdb
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\Usuario\Documents\CSharpVS\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\ref\CalculadoraIMC.dll

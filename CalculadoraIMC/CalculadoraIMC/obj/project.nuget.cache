@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4Ucmw13ShC6QOCzVr+/3lsuO7DjDicLPhTHdXxRPHkpO/M5c6YHFflwJcE+0baWWX++OJGwIvSG2m43YEagRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\CSharpVS\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
