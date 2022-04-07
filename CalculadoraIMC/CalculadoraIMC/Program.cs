@@ -18,12 +18,12 @@ namespace CalculadoraIMC
             Name = Console.ReadLine();
 
             Console.WriteLine("Digite sua idade: ");
-            Name = Console.ReadLine();
+            age = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Olá " + Name + " Digite seu peso: ");
+            Console.WriteLine($"Olá {Name} Digite seu peso: ");
             Weight = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("Olá " + Name + " Digite sua altura: ");
+            Console.WriteLine($"Olá {Name} Digite sua altura: ");
             Height = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Imc = Weight / (Height * Height);
@@ -31,23 +31,23 @@ namespace CalculadoraIMC
             if (Imc < 18.5)
             {
 
-                Console.WriteLine("Olá " + Name + " Sua massa muscular encontra-se na faixa: Abaixo do peso ");
+                Console.WriteLine($"Olá {Name} Sua massa muscular encontra-se na faixa: Abaixo do peso ");
 
             }
             else if (Imc < 25)
             {
 
-                Console.WriteLine("Olá " + Name + " Sua massa muscular encontra-se na faixa: Peso Normal ");
+                Console.WriteLine($"Olá {Name} Sua massa muscular encontra-se na faixa: Peso Normal ");
             }
             else if (Imc < 30)
             {
 
-                Console.WriteLine("Olá " + Name + " Sua massa muscular encontra-se na faixa: Sobrepeso ");
+                Console.WriteLine($"Olá {Name} Sua massa muscular encontra-se na faixa: Sobrepeso ");
 
             }
             else
             {
-                Console.WriteLine("Olá " + Name + " Sua massa muscular encontra-se na faixa: Obesidade ");
+                Console.WriteLine($"Olá {Name} Sua massa muscular encontra-se na faixa: Obesidade ");
             }
         }
     }
